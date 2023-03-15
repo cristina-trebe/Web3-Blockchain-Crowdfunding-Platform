@@ -8,6 +8,8 @@
 - the ability to create, view, and donate to crowdfunding campaigns directly through the blockchain
 - -> with Solidity / Thirdweb / Goerli Testnet || Hardhat / Tailwindcss / vite
 
+<hr>
+
 <br>
 Thirdweb - https://thirdweb.com/?utm_source=yout... <br>
 Metamask: https://metamask.io/  <br>
